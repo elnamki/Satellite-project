@@ -1,4 +1,5 @@
-# Satellite Project 衛星計畫
+# editing start 1082021 
+Satellite Project 衛星計畫
 
 ***目標：在台灣發射比特幣交易到TELSTAR 18V衛星***    
 ***Goal: Launch Bitcoin transactions in Taiwan to TELSTAR 18V satellite***
